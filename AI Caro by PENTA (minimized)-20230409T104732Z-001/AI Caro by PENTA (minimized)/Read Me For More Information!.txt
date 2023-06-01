@@ -1,0 +1,14 @@
+Made by Penta.
+
+Player only has 2 mins for thinking.
+
+The Maximum moves in this game is 300, if the move reach over 300, the game will be draw.
+
+Avaliable For Win 10 only.
+
+This Minimized Version required the max resolution is 1000x800
+
+This game may have some bugs, if it happens, please click the 'restart' button to end the match and try another one, you
+also can contact with Penta for more informations!.
+
+Thank you for playing my game!
